@@ -7,7 +7,7 @@ namespace GemHuntersGame
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Gem Hunters!");
-
+                
             Game game = new Game();
             game.Start();
 
