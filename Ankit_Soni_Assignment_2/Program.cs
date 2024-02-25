@@ -159,7 +159,7 @@ namespace GemHuntersGame
             }
         }
     }
-
+    
     class Game
     {
         public Board GameBoard { get; }
