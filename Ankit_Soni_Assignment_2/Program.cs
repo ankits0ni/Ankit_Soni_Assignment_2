@@ -15,7 +15,7 @@ namespace GemHuntersGame
             Console.ReadKey();
         }
     }
-
+     
     class Location
     {
         public int X { get; set; }
