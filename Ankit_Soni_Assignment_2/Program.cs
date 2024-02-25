@@ -27,7 +27,7 @@ namespace GemHuntersGame
             Y = y;
         }
     }
-
+     
     class Player
     {
         public string Name { get; }
