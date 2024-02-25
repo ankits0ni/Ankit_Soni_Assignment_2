@@ -63,7 +63,7 @@ namespace GemHuntersGame
             Contents = contents;
         }
     }
-
+    
     class Board
     {
         public Cell[,] Grid { get; }
