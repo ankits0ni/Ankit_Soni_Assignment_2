@@ -53,7 +53,7 @@ namespace GemHuntersGame
                 Position = new Location(Position.X + 1, Position.Y);
         }
     }
-
+     
     class Cell
     {
         public string Contents { get; set; }
